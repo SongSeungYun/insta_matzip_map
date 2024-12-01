@@ -1,1 +1,4 @@
 secret.json
+.git
+test.py
+__pycache__
