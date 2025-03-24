@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>지도 생성하기</title>
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=<%= mapApiKey %>"></script>
+</head>
+<body>
+<div id="mapwrap"> 
+    <!-- 지도가 표시될 div -->
+    <div id="map" style="width:100%;height:100vh;"></div>
+    <!-- 지도 위에 표시될 마커 카테고리 -->
+    <div class="category">
+        <ul>
+            <li id="babzipMenu" onclick="showMarker('밥집')">
+                <span class="ico_comm ico_babzip"></span>
+                밥집
+            </li>
+            <li id="cafeMenu" onclick="showMarker('카페')">
+                <span class="ico_comm ico_cafe"></span>
+                카페
+            </li>
+            <li id="sulzipMenu" onclick="showMarker('술집')">
+                <span class="ico_comm ico_sulzip"></span>
+                술집
+            </li>
+        </ul>
+    </div>
+    <script src="../javascript/map.js"></script>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+.info-window {
+    max-width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+.info-window-content {
+    padding: 16px;
+}
+.info-window h2 {
+    margin: 0 0 8px;
+    font-size: 18px;
+    color: #333;
+}
+.info-window p {
+    margin: 0 0 8px;
+    font-size: 14px;
+    color: #666;
+}
+.info-window-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 16px;
+}
+.info-window-button {
+    padding: 8px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 12px;
+    color: #333;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+.info-window-button:hover {
+    background-color: #e0e0e0;
+}
+
+#mapwrap{position:relative;overflow:hidden;}
+.category, .category *{margin:0;padding:0;color:#000;}
+.category {position:absolute;overflow:hidden;top:10px;left:10px;width:150px;height:50px;z-index:10;border:1px solid black;font-family:'Malgun Gothic','맑은 고딕',sans-serif;font-size:12px;text-align:center;background-color:#fff;}
+.category .menu_selected {background:#FF5F4A;color:#fff;border-left:1px solid #915B2F;border-right:1px solid #915B2F;margin:0 -1px;} 
+.category li{list-style:none;float:left;width:50px;height:45px;padding-top:5px;cursor:pointer;} 
+.category .ico_comm {display:block;margin:0 auto 2px;width:22px;height:26px;background:"../image/combine.jpg" no-repeat;} 
+.category .ico_babzip {background-position:-10px 0;}  
+.category .ico_cafe {background-position:-10px -36px;}   
+.category .ico_sulzip {background-position:-10px -72px;} 

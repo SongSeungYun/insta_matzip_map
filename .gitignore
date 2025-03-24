@@ -1,0 +1,5 @@
+data/secret.json
+.git
+test.py
+__pycache__
+back/node_modules

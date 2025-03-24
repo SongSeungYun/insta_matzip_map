@@ -1,0 +1,2294 @@
+{
+  "restaurants": [
+    {
+      "name": "성진묵은지감자탕",
+      "address": "인천광역시 연수구 연수동 601-17",
+      "main_menu": [
+        "감자탕",
+        "뼈해장국"
+      ],
+      "type": "밥집",
+      "latitude": 37.4191608,
+      "longitude": 126.6849462,
+      "reels_link": "https://www.instagram.com/p/CGAH6X7B9RZ/"
+    },
+    {
+      "name": "가마꿉",
+      "address": "당하동 1093-2",
+      "main_menu": [
+        {
+          "name": "양념 모짜렐라 순살",
+          "price": 23900
+        },
+        {
+          "name": "가마솥 양념구이",
+          "price": 18900
+        },
+        {
+          "name": "국물 떡볶이"
+        },
+        {
+          "name": "치즈볼"
+        },
+        {
+          "name": "눈꽃 감자튀김"
+        }
+      ],
+      "type": "밥집",
+      "latitude": 37.59073515,
+      "longitude": 126.6762148802504,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DC_BLLYSUUP/"
+    },
+    {
+      "name": "만리재비스트로 트레",
+      "address": "청라동 175-5 1층",
+      "main_menu": [
+        "화덕피자",
+        "파스타",
+        "라자냐"
+      ],
+      "type": "밥집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DC8PcmTSsu9/"
+    },
+    {
+      "name": "꼴목",
+      "address": "인천 부평구 시장로30번길 20 1층",
+      "main_menu": [
+        "삼계탕",
+        "김치전",
+        "오리주물럭",
+        "대창순두부전골"
+      ],
+      "type": "술집",
+      "latitude": 37.4931163,
+      "longitude": 126.7268452,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DC6g1CQy6ho/"
+    },
+    {
+      "name": "천년집",
+      "address": "인천 중구 운중로 103",
+      "main_menu": [
+        "양념게장",
+        "제육",
+        "실비김치",
+        "칼국수",
+        "수육",
+        "순대",
+        "미니족발"
+      ],
+      "type": "밥집",
+      "latitude": 37.4946336,
+      "longitude": 126.5461556,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DC5qEMSyo9I/"
+    },
+    {
+      "name": "무궁화꼬치",
+      "address": "인천 부평구 시장로30번길 26-3",
+      "main_menu": [
+        "수제 숯불꼬치",
+        "어묵탕"
+      ],
+      "type": "술집",
+      "latitude": 37.4931163,
+      "longitude": 126.7268452,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DC1XSVXydtW/"
+    },
+    {
+      "name": "코즈믹버거 송도점",
+      "address": "인천 연수구 송도과학로28번길 8 1층 114호",
+      "main_menu": [
+        "트러플머쉬룸 버거",
+        "네쉬빌 핫 치킨 버거",
+        "허니갈릭 프라이즈"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCwKeq3Sgy-/"
+    },
+    {
+      "name": "낭만 한도초과",
+      "address": "인천",
+      "main_menu": [
+        "밥",
+        "사진"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCvagxQyCot/"
+    },
+    {
+      "name": "호몽",
+      "address": "인천 서구 청라에메랄드로 79 1층 A57호",
+      "main_menu": [
+        "가지새우만두",
+        "동파육",
+        "바베큐 새우볶음밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.5323774,
+      "longitude": 126.6559897,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCsyDPkSRXA/"
+    },
+    {
+      "name": "마망카페",
+      "address": "롯데백화점 인천점 지하1층 터미널역 초입 바로 앞",
+      "main_menu": [
+        "소금붕어빵",
+        "씨앗호떡 붕어빵"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCqeKAeSAHf/"
+    },
+    {
+      "name": "이춘명숙성회 본점",
+      "address": "인천 계양구 장제로 719-3 상가 1층",
+      "main_menu": [
+        "숙성회",
+        "대방어"
+      ],
+      "type": "횟집",
+      "latitude": 37.5511088,
+      "longitude": 126.7421747,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCqBDcNyw1D/"
+    },
+    {
+      "name": "목구멍 구월점",
+      "address": "인천 구월동 1451-5 1층",
+      "main_menu": [
+        "갈비본살",
+        "고기"
+      ],
+      "type": "고기집",
+      "latitude": 37.449345,
+      "longitude": 126.7080835,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCob7rYyF7t/"
+    },
+    {
+      "name": "우와",
+      "address": "인천 부평구 경원대로1367번길 4 1층",
+      "main_menu": [
+        "새우토마토 오코노미야끼",
+        "클래식 야끼소바"
+      ],
+      "type": "일식당",
+      "latitude": 37.4926534,
+      "longitude": 126.7208422,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCnu3oHyU7C/"
+    },
+    {
+      "name": "백면옥",
+      "address": "인천 연수구 먼우금로222번길 41 1층",
+      "main_menu": [
+        "평양냉면",
+        "비빔냉면",
+        "어복쟁반"
+      ],
+      "type": "밥집",
+      "latitude": 37.416331,
+      "longitude": 126.6786089,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCl_CBQy1tQ/"
+    },
+    {
+      "name": "을지바베큐",
+      "address": "청라동 162-14 1층",
+      "main_menu": [
+        "목살바베큐 중짜",
+        "한치물회"
+      ],
+      "type": "술집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DClHvQgSNIo/"
+    },
+    {
+      "name": "잇키",
+      "address": "인천 부평구 마장로 397 1층",
+      "main_menu": [
+        "시그니처 메뉴 마끼",
+        "술찜",
+        "수제 소스로 만든 치킨"
+      ],
+      "type": "이자카야",
+      "latitude": 37.5225163,
+      "longitude": 126.7048118,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCi9sD4ycFj/"
+    },
+    {
+      "name": "몽글담주 부평본점",
+      "address": "인천 부평구 시장로30번길 26-4 2층",
+      "main_menu": [
+        "백합 항정 수육",
+        "해물 순두부찌개",
+        "들기름 메밀국수"
+      ],
+      "type": "술집",
+      "latitude": 37.4931163,
+      "longitude": 126.7268452,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCf99cbyuH5/"
+    },
+    {
+      "name": "함촌가든",
+      "address": "원당동 1018-2",
+      "main_menu": [
+        "제주 급랭 오겹살",
+        "냉삼"
+      ],
+      "type": "밥집",
+      "latitude": 37.59250195,
+      "longitude": 126.69391308226591,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCbnTa9SEaH/"
+    },
+    {
+      "name": "빨간거짱구네",
+      "address": "인천 연수구 송도미래로 9 2동 1층",
+      "main_menu": [
+        "낙지전골",
+        "칼국수",
+        "볶음밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.3651221,
+      "longitude": 126.653789,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCYPAi2yLTc/"
+    },
+    {
+      "name": "낭낭한식주점 본점",
+      "address": "인천 남동구 인주대로522번길 64 1층",
+      "main_menu": [
+        "명란치즈감자전",
+        "오징어 보쌈",
+        "꼬막육전"
+      ],
+      "type": "술집",
+      "latitude": 37.4493758,
+      "longitude": 126.6959132,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCWCYj2S8HA/"
+    },
+    {
+      "name": "이석덕생면파스타",
+      "address": "인천 미추홀구 연남로 35 지하1층",
+      "main_menu": [
+        "블루크랩 게살 로제파스타",
+        "고르곤졸라피자",
+        "아란치니 세트",
+        "트러플크림뇨끼",
+        "핑크로네 파스타"
+      ],
+      "type": "밥집",
+      "latitude": 37.4414204,
+      "longitude": 126.7027232,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCVlhOESIb-/"
+    },
+    {
+      "name": "정손",
+      "address": "구월동 1379-3",
+      "main_menu": [
+        "항정수육튀김",
+        "양지 숙주전골"
+      ],
+      "type": "술집",
+      "latitude": 37.449345,
+      "longitude": 126.7080835,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCRN7_JSRoM/"
+    },
+    {
+      "name": "온비1959 연희점",
+      "address": "인천 서구 탁옥로 101 1층",
+      "main_menu": [
+        "왕겨초벌구이",
+        "망고모양 항정살",
+        "명란+버터+마늘 소스",
+        "공기밥",
+        "갓김치",
+        "홍합폭탄 짬뽕순두부전골",
+        "계란볶음밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.5438931,
+      "longitude": 126.6752828,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCQdgTtS_tf/"
+    },
+    {
+      "name": "일월육일 부평역점",
+      "address": "인천 부평구 경원대로1403번길 38-6 1층",
+      "main_menu": [
+        "꽃게탕"
+      ],
+      "type": "술집",
+      "latitude": 37.4928174,
+      "longitude": 126.7259581,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCOsFrJSz9t/"
+    },
+    {
+      "name": "쇼미더크랩",
+      "address": "인천 서구 중봉대로586번길 22 A동 2층 220호",
+      "main_menu": [
+        "보일링크랩",
+        "케이준소스 소스",
+        "마늘 섞은 소스"
+      ],
+      "type": "밥집",
+      "latitude": 37.5308937,
+      "longitude": 126.6515852,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCMDyglSDg8/"
+    },
+    {
+      "name": "회뜨는중",
+      "address": "인천 부평구 경원대로1403번길 38-10",
+      "main_menu": [
+        "대방어",
+        "쌈",
+        "김",
+        "초밥"
+      ],
+      "type": "술집",
+      "latitude": 37.4928174,
+      "longitude": 126.7259581,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCIoQGsSd0B/"
+    },
+    {
+      "name": "에르제 송도",
+      "address": "송도동 21-16 120호",
+      "main_menu": [
+        "유기농 비건 베이커리",
+        "크로와상",
+        "잠봉뵈르",
+        "시그니처 무화과 깜빠뉴",
+        "트러플오일러스크"
+      ],
+      "type": "카페",
+      "latitude": 37.3851499,
+      "longitude": 126.6457433,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCGLw08SsJ8/"
+    },
+    {
+      "name": "캠피",
+      "address": "인천 남동구 인하로511번길 28 지하1층",
+      "main_menu": [
+        "쫀득쿠키(딸기 오레오, 말차 딸기 오레오, 피스타치오 무화과, 잭푸르츠 초코)",
+        "카이막과 흔들흔들 토끼모양 푸딩"
+      ],
+      "type": "카페",
+      "latitude": 37.4445417,
+      "longitude": 126.7035152,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCEcVl-yg70/"
+    },
+    {
+      "name": "동북연회",
+      "address": "부평구 경원대로1403번길 20-4 1층",
+      "main_menu": [
+        "양꼬치",
+        "꿔바로우"
+      ],
+      "type": "밥집",
+      "latitude": 37.4921786,
+      "longitude": 126.7256051,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCDxHrmSDh3/"
+    },
+    {
+      "name": "중화만객",
+      "address": "인천 서구 염곡로498번길 14 1층",
+      "main_menu": [
+        "잡채밥",
+        "튀김 요리",
+        "마라크크지"
+      ],
+      "type": "중식당",
+      "latitude": 37.5291652,
+      "longitude": 126.6709303,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DCB3Vtdyibk/"
+    },
+    {
+      "name": "연탄몽 용현직영점",
+      "address": "인천 미추홀구 매소홀로 73 1층",
+      "main_menu": [
+        "한돈 1등급 고기",
+        "라면",
+        "파절 비빔밥",
+        "김치찌개"
+      ],
+      "type": "밥집",
+      "latitude": 37.4385815,
+      "longitude": 126.6915879,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DB_S37FShXK/"
+    },
+    {
+      "name": "호랑이굴 구월점",
+      "address": "인천 남동구 인하로507번길 63 1층",
+      "main_menu": [
+        "국내최초 빨간 모츠나베",
+        "갈릭마요새우",
+        "닭껍질교자"
+      ],
+      "type": "밥집",
+      "latitude": 37.4453688,
+      "longitude": 126.7031306,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DB8xVTIyIZZ/"
+    },
+    {
+      "name": "임대장 송도점",
+      "address": "인천 연수구 하모니로138번길 11 101동 1층 129호",
+      "main_menu": [
+        "숯불갈비",
+        "돼지갈비",
+        "냉삼",
+        "무한리필 고깃집 뒷고기",
+        "막창"
+      ],
+      "type": "고깃집",
+      "latitude": 37.3849929,
+      "longitude": 126.6434763,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DB27FgaydNB/"
+    },
+    {
+      "name": "한강포차",
+      "address": "인천 부평구 시장로29번길 5 2층",
+      "main_menu": [
+        "주전자오뎅탕",
+        "매운갈비찜",
+        "전기구이통닭 치즈&불닭소스",
+        "오뎅뽁이",
+        "연유달달토스트"
+      ],
+      "type": "술집",
+      "latitude": 37.4938583,
+      "longitude": 126.7251571,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DB0j5pdSqYe/"
+    },
+    {
+      "name": "대부도 바지락 칼국수",
+      "address": "인천 서구 가정로307번길 11-1",
+      "main_menu": [
+        "칼국수",
+        "보쌈"
+      ],
+      "type": "밥집",
+      "latitude": 37.5117325,
+      "longitude": 126.6703528,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBz6--tSfTL/"
+    },
+    {
+      "name": "이자카야 사요",
+      "address": "인천 부평구 시장로12번길 7 2층",
+      "main_menu": [
+        "소고기 타다끼",
+        "모듬사시미",
+        "명란크림우동"
+      ],
+      "type": "이자카야",
+      "latitude": 37.4918858,
+      "longitude": 126.7250364,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBxqjhISuMv/"
+    },
+    {
+      "name": "바미타코",
+      "address": "인천 부평구 부평문화로80번길 4 2층",
+      "main_menu": [
+        "스테이크 퀘사디아",
+        "감자튀김",
+        "바미파히타"
+      ],
+      "type": "밥집",
+      "latitude": 37.4938801,
+      "longitude": 126.724399,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBsaajQSLrh/"
+    },
+    {
+      "name": "모다치 부천점",
+      "address": "경기 부천시 원미구 중동로254번길 24 1층 102호, 103호",
+      "main_menu": [
+        "삼겹살 들기름 두부김치",
+        "돼지고기 전골 세트"
+      ],
+      "type": "술집",
+      "latitude": 37.50210604043474,
+      "longitude": 126.77161273549584,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBqDs68SdgB/"
+    },
+    {
+      "name": "아롬베이크",
+      "address": "인천 부평구 시장로 21-1 1층",
+      "main_menu": [
+        "두바이 초콜릿",
+        "에그타르트",
+        "약과 쿠키"
+      ],
+      "type": "카페",
+      "latitude": 37.4965204,
+      "longitude": 126.7287034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBoEBUVyOrI/"
+    },
+    {
+      "name": "샤브올데이 송도점",
+      "address": "인천 연수구 첨단대로 40, 에스파이브시티 주건축물 제1동 2층 B201호, B202호, B203호, B204호, B205호",
+      "main_menu": [
+        "프리미엄 소고기 샤브샤브",
+        "호텔식 샐러드 바"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBk5Y9-yW2C/"
+    },
+    {
+      "name": "빨간낙지&통영굴찜",
+      "address": "인천 부평구 경원대로1377번길 9-1 1층",
+      "main_menu": [
+        "제철해산물"
+      ],
+      "type": "술집",
+      "latitude": 37.4922102,
+      "longitude": 126.7222008,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBiAmOgylGH/"
+    },
+    {
+      "name": "무야호랜드 부평역점",
+      "address": "인천 부평구 경원대로1403번길 5 1층",
+      "main_menu": [
+        "야끼니꾸",
+        "호루몬",
+        "돼지고기"
+      ],
+      "type": "밥집",
+      "latitude": 37.4928174,
+      "longitude": 126.7259581,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBc5-0zyBNF/"
+    },
+    {
+      "name": "#새들브라운청라",
+      "address": "인천 서구 청라에메랄드로 79 지하1층 a05호, a06호, a07호, a08호",
+      "main_menu": [
+        "김치볶음밥",
+        "투움바쉬림프 파스타",
+        "라자냐 뇨끼"
+      ],
+      "type": "밥집",
+      "latitude": 37.5323774,
+      "longitude": 126.6559897,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBafXXNS1nC/"
+    },
+    {
+      "name": "숙성회 전문점 다해야",
+      "address": "인천광역시 부평구 부평동 546-38",
+      "main_menu": [
+        "모듬숙성회 세트(2인)",
+        "가리비명란구이"
+      ],
+      "type": "밥집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBYQ6lMyLOi/"
+    },
+    {
+      "name": "버터풀 앤크리멀러스 송도점",
+      "address": "인천 연수구 송도국제대로 123 3층",
+      "main_menu": [
+        "바스크치즈케이크",
+        "블루베리 요거트 크림 크로와상",
+        "피넛 앤 멀러스 커피"
+      ],
+      "type": "카페",
+      "latitude": 37.38149785,
+      "longitude": 126.65752217304633,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBQFVhTysrE/"
+    },
+    {
+      "name": "에이프 카페",
+      "address": "경기 부천시 소사구 연동로 61",
+      "main_menu": [
+        "최고급 디저트",
+        "최고급 음료",
+        "식물가챠"
+      ],
+      "type": "식물카페",
+      "latitude": 37.4723887,
+      "longitude": 126.8254669,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBNrMWGyBaS/"
+    },
+    {
+      "name": "#백년집구월점",
+      "address": "인천 남동구 성말로13번길 15 1층 131호",
+      "main_menu": [
+        "백년 스지전골",
+        "맵스지볶음"
+      ],
+      "type": "술집",
+      "latitude": 37.4454685,
+      "longitude": 126.7020979,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBLQZQFSrbT/"
+    },
+    {
+      "name": "#능곡할머니북어탕상동점",
+      "address": "경기 부천시 원미구 길주로121번길 18-15 1층 104호",
+      "main_menu": [
+        "북어탕",
+        "제육볶음",
+        "계란말이",
+        "미나리전"
+      ],
+      "type": "밥집",
+      "latitude": 37.50660825,
+      "longitude": 126.75690262280827,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBJLmn6SEuG/"
+    },
+    {
+      "name": "#유케집청라점",
+      "address": "인천 서구 중봉대로 594 B02호",
+      "main_menu": [
+        "육개장",
+        "차돌 들기름 막국수",
+        "치즈감자전"
+      ],
+      "type": "술집",
+      "latitude": 37.5326255,
+      "longitude": 126.65033738882259,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBIcfweyYg4/"
+    },
+    {
+      "name": "#부평별밤",
+      "address": "부평동 153-4 지하1층",
+      "main_menu": [
+        "룸비 3만원",
+        "basic 안주(과일, 감튀, 과자, 주류 3종류)"
+      ],
+      "type": "밥집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBGczsCyJ5W/"
+    },
+    {
+      "name": "솥뚜껑소곱창 솥곱",
+      "address": "경기 부천시 원미구 부일로459번길 17",
+      "main_menu": [
+        "솥뚜껑 소곱창",
+        "미나리",
+        "부추",
+        "김치"
+      ],
+      "type": "밥집",
+      "latitude": 37.4872236,
+      "longitude": 126.7815948,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DBBEEPaSauK/"
+    },
+    {
+      "name": "#타이킨",
+      "address": "용현동 627-213",
+      "main_menu": [
+        "한우육회+버섯+야채",
+        "오꼬노미야끼",
+        "스키야키"
+      ],
+      "type": "술집",
+      "latitude": 37.4508937,
+      "longitude": 126.6492456,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DA7ff4SS8fj/"
+    },
+    {
+      "name": "#꽃냉삼",
+      "address": "인천 서구 석남로 97 1층(석남동)",
+      "main_menu": [
+        "냉삼"
+      ],
+      "type": "밥집",
+      "latitude": 37.5014625,
+      "longitude": 126.6688457,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DA5351ISvpg/"
+    },
+    {
+      "name": "런던베이글",
+      "address": "인천 서구 서로3로 198 101호, 102호, 104호, 105호",
+      "main_menu": [
+        "소금빵",
+        "바게트",
+        "당일생산 빵"
+      ],
+      "type": "카페",
+      "latitude": 37.5978098,
+      "longitude": 126.7073842,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DA5BdwMSAkm/"
+    },
+    {
+      "name": "#서울주막부평점",
+      "address": "인천 부평구 시장로20번길 15 2층",
+      "main_menu": [
+        "라면",
+        "오레오빙수"
+      ],
+      "type": "술집",
+      "latitude": 37.4926932,
+      "longitude": 126.7253932,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DA3NOGrSScE/"
+    },
+    {
+      "name": "만리재비스트로트레",
+      "address": "인천 서구 청라루비로42번길 5-16 1층",
+      "main_menu": [
+        "뇨끼",
+        "꽈리고추 까르보나라",
+        "스테이크 치즈 리조또"
+      ],
+      "type": "비스트로",
+      "latitude": 37.5284347,
+      "longitude": 126.6422993,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAzwMIKypzY/"
+    },
+    {
+      "name": "한마음 손칼국수 보쌈",
+      "address": "인천 서구 서로3로 198, 106, 107, 108호",
+      "main_menu": [
+        "보쌈",
+        "사골손칼국수",
+        "보리밥"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAut4ZrSTTF/"
+    },
+    {
+      "name": "#만장부평본점",
+      "address": "인천 부평구 시장로30번길 27 1층",
+      "main_menu": [
+        "꽃게구이",
+        "꽃게튀김",
+        "치즈떡볶이",
+        "꽃게탕",
+        "게장비빔밥"
+      ],
+      "type": "술집",
+      "latitude": 37.4931163,
+      "longitude": 126.7268452,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAsCMtDSwF9/"
+    },
+    {
+      "name": "춘 부평점",
+      "address": "인천 부평구 시장로12번길 5 2층",
+      "main_menu": [
+        "모둠사시미",
+        "춘새우튀김",
+        "홍짬뽕"
+      ],
+      "type": "이자카야",
+      "latitude": 37.4918858,
+      "longitude": 126.7250364,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DApaBwySwGQ/"
+    },
+    {
+      "name": "#디뷰인천",
+      "address": "청라동 57-3",
+      "main_menu": [
+        "파스타",
+        "프렌치 토스트",
+        "커피"
+      ],
+      "type": "카페",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAnJxgoSWyP/"
+    },
+    {
+      "name": "#시굴집",
+      "address": "인천광역시 서구 검암동 253-1",
+      "main_menu": [
+        "닭백숙",
+        "닭볶음탕"
+      ],
+      "type": "밥집",
+      "latitude": 37.56569,
+      "longitude": 126.67546,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAlK49tSesn/"
+    },
+    {
+      "name": "한사발포차인천구월점",
+      "address": "인천 구월동 1461",
+      "main_menu": [
+        "떡도리탕",
+        "달달계란토스트",
+        "묵사발"
+      ],
+      "type": "술집",
+      "latitude": 37.449345,
+      "longitude": 126.7080835,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAh8qBcSpH8/"
+    },
+    {
+      "name": "#무화가장수족발",
+      "address": "청라동 105-14",
+      "main_menu": [
+        "족발"
+      ],
+      "type": "밥집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAgBIveSEC6/"
+    },
+    {
+      "name": "#하모니스토리",
+      "address": "인천 연수구 송도힐즈로10길 8",
+      "main_menu": [
+        "베이컨이 통으로 들어간 파스타",
+        "풍기샐러드",
+        "시금치 고르곤졸라 피자"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAceqDgyUy7/"
+    },
+    {
+      "name": "#뼈반집부평본점",
+      "address": "인천 부평구 부평대로 53 1층",
+      "main_menu": [
+        "곱창감자탕",
+        "수제비사리",
+        "당면사리"
+      ],
+      "type": "밥집",
+      "latitude": 37.505433723379596,
+      "longitude": 126.72131955769875,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAZ9Jyiy5Vc/"
+    },
+    {
+      "name": "#마케집송도점",
+      "address": "인천 연수구 하모니로 158 송도타임스페이스 D-121호, D-122호",
+      "main_menu": [
+        "자연산막회",
+        "제주딱새우버터술찜"
+      ],
+      "type": "밥집",
+      "latitude": 37.38845713947027,
+      "longitude": 126.64840637876937,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAX4_Tuyi_n/"
+    },
+    {
+      "name": "#송도씨",
+      "address": "인천 연수구 하모니로 158 송도타임스페이스 A동 102호",
+      "main_menu": [
+        "크림브륄레 소금빵",
+        "누네띠네 소금빵",
+        "우유생크림소금빵"
+      ],
+      "type": "카페",
+      "latitude": 37.38845713947027,
+      "longitude": 126.64840637876937,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAU_peVyr55/"
+    },
+    {
+      "name": "천년닭강정",
+      "address": "전국 (배달앱 통해 집 근처 천년닭강정 검색)",
+      "main_menu": [
+        "달콤/매콤/간장 닭강정",
+        "달콤/매콤/간장 새우강정"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DATJL3vSkaW/"
+    },
+    {
+      "name": "시나몬하우스",
+      "address": "인천 중구 월미로260번길 14 1층",
+      "main_menu": [
+        "한 입 츄러스 (7P) 3,500원",
+        "마카롱 2,200원"
+      ],
+      "type": "카페",
+      "latitude": 37.47363297855059,
+      "longitude": 126.5976986141479,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAQkT_YyryL/"
+    },
+    {
+      "name": "꾸닭발",
+      "address": "인천 부평구 경원대로1403번길 4 1층",
+      "main_menu": [
+        "무뼈숯불닭발",
+        "주먹밥",
+        "수란탕"
+      ],
+      "type": "닭발집",
+      "latitude": 37.4921786,
+      "longitude": 126.7256051,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAPvisdSrtW/"
+    },
+    {
+      "name": "샤브다움",
+      "address": "인천광역시 연수구 청량로 95 1층",
+      "main_menu": [
+        "마블링 1등급 한우",
+        "얼큰칼칼 된장 육수",
+        "죽",
+        "디저트"
+      ],
+      "type": "샤브샤브",
+      "latitude": 37.42047937203548,
+      "longitude": 126.65268731399995,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DANWcUUSfYl/"
+    },
+    {
+      "name": "#처음본명품민물장어영종스카이시티점",
+      "address": "인천 중구 마시란로 82-1",
+      "main_menu": [
+        "장어",
+        "소고기",
+        "삼겹살",
+        "소곱창"
+      ],
+      "type": "밥집",
+      "latitude": 37.4387412915252,
+      "longitude": 126.40932441193965,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAKk7s9S8lz/"
+    },
+    {
+      "name": "#푸짐곱창",
+      "address": "부개동 12-227",
+      "main_menu": [
+        "푸짐반판(600g)",
+        "푸짐한판(1kg)"
+      ],
+      "type": "밥집",
+      "latitude": 37.4937932,
+      "longitude": 126.7380537,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAH76qSSNCa/"
+    },
+    {
+      "name": "#왕초바베큐",
+      "address": "인천 부평구 시장로 24 1층 110호",
+      "main_menu": [
+        "숯불양념바베큐 순살",
+        "치즈사리 추가",
+        "라이트한 닭발",
+        "라이트한 닭목살"
+      ],
+      "type": "밥집",
+      "latitude": 37.493212523701715,
+      "longitude": 126.72543232562768,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAGN7MZynOO/"
+    },
+    {
+      "name": "뉴욕부대찌개",
+      "address": "인천 연수구 청량로185번길 37 sm프라자1동101호",
+      "main_menu": [
+        "부대찌개",
+        "순두부 부대찌개",
+        "소곱창 부대전골",
+        "냉삼"
+      ],
+      "type": "밥집",
+      "latitude": 37.42319890078984,
+      "longitude": 126.65051885621895,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DAFX9jmS-ow/"
+    },
+    {
+      "name": "로바타키요 송도본점",
+      "address": "송도동 8-23 타임스페이스A동 108호",
+      "main_menu": [
+        "뽈락구이",
+        "갑오징어",
+        "꼬치 4종",
+        "키요나베"
+      ],
+      "type": "술집",
+      "latitude": 36.03623,
+      "longitude": 129.37521,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DADsbS1yOx4/"
+    },
+    {
+      "name": "롱브르378",
+      "address": "인천광역시 미추홀구 연남로 35, 롯데백화점 지하1층",
+      "main_menu": [
+        "피스타치오",
+        "퀸아망",
+        "뽐므"
+      ],
+      "type": "기타",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DADOIneS3zS/"
+    },
+    {
+      "name": "#천객가",
+      "address": "경기 부천시 원미구 상동로117번길 31 1층 105호",
+      "main_menu": [
+        "사천짜장",
+        "백짬뽕",
+        "꿔바로우",
+        "마요크림새우"
+      ],
+      "type": "중식당",
+      "latitude": 37.50759925,
+      "longitude": 126.75169839999816,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DABHreLSdcw/"
+    },
+    {
+      "name": "#참피온삼겹살",
+      "address": "인천 연수구 송도과학로27번길 55 A동 2층",
+      "main_menu": [
+        "냉삼",
+        "계란밥",
+        "청국장 무생채"
+      ],
+      "type": "밥집",
+      "latitude": 37.3875541,
+      "longitude": 126.6642597,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_-i2LLSxX3/"
+    },
+    {
+      "name": "#아메리칸스퀘어송도본점",
+      "address": "인천광역시 연수구 능허대로 362 1~3층",
+      "main_menu": [
+        "베이커리",
+        "페퍼로니피자빵",
+        "바질토마토베이글",
+        "트러플 스프레드"
+      ],
+      "type": "카페",
+      "latitude": 37.40823205600324,
+      "longitude": 126.65624740981026,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_4iSfVyG9q/"
+    },
+    {
+      "name": "오크베리 롯데백화점 인천점",
+      "address": "롯데백화점 인천점 지하1층 푸드에비뉴관",
+      "main_menu": [
+        "아사이볼"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_2bPXvyHp3/"
+    },
+    {
+      "name": "#록갈비구월점",
+      "address": "인천 남동구 인하로507번길 74 1층 102호",
+      "main_menu": [
+        "양념쪽갈비",
+        "매운쪽갈비"
+      ],
+      "type": "밥집",
+      "latitude": 37.44566185587437,
+      "longitude": 126.70316096312668,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_1vv95yK47/"
+    },
+    {
+      "name": "#루프탑032",
+      "address": "인천 부평구 시장로 24 4층 402호",
+      "main_menu": [
+        "중식메뉴",
+        "대하",
+        "냉삼"
+      ],
+      "type": "술집",
+      "latitude": 37.493212523701715,
+      "longitude": 126.72543232562768,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_0S-ivyZDX/"
+    },
+    {
+      "name": "오투쭈꾸미영종",
+      "address": "인천 중구 운중로 81 1",
+      "main_menu": [
+        "불향가득쭈꾸미",
+        "계란찜",
+        "새우튀김"
+      ],
+      "type": "밥집",
+      "latitude": 37.49464338146092,
+      "longitude": 126.54621226748023,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_zmqSMSwoJ/"
+    },
+    {
+      "name": "#땀땀",
+      "address": "롯데백화점 인천점 지하1층 푸드에비뉴관",
+      "main_menu": [
+        "보양쌀국수"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_xxqroS94e/"
+    },
+    {
+      "name": "LP바",
+      "address": "부평동 154-21",
+      "main_menu": [
+        "칵테일"
+      ],
+      "type": "술집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_vGWxrSieC/"
+    },
+    {
+      "name": "수란 청라점",
+      "address": "인천 서구 청라루비로42번길 5-18 1층",
+      "main_menu": [
+        "망고크림새우",
+        "차돌박이 짬뽕",
+        "XO소스 게살볶음밥"
+      ],
+      "type": "중식",
+      "latitude": 37.52842862621837,
+      "longitude": 126.64174574640658,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_uIZCayNya/"
+    },
+    {
+      "name": "조마루감자탕",
+      "address": "인천 미추홀구 주염로 8 1층",
+      "main_menu": [
+        "숯불뼈찜 소짜",
+        "뼈해장국"
+      ],
+      "type": "밥집",
+      "latitude": 37.469803914749654,
+      "longitude": 126.68315815788509,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_shSyWyinH/"
+    },
+    {
+      "name": "송도한우 송우",
+      "address": "인천 연수구 능허대로165번길 11 1층",
+      "main_menu": [
+        "육회비빔밥",
+        "육회냉면"
+      ],
+      "type": "밥집",
+      "latitude": 37.42144512240874,
+      "longitude": 126.64771181161052,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_p8b-hyein/"
+    },
+    {
+      "name": "청라 커넬웨이 고기집",
+      "address": "인천 서구 중봉대로612번길 10-16 B04, B05호",
+      "main_menu": [
+        "주먹고기",
+        "특삼겹",
+        "돼지김치찌개",
+        "치즈명란계란찜",
+        "칼집양념껍데기"
+      ],
+      "type": "고기집",
+      "latitude": 37.533392199999994,
+      "longitude": 126.65165925334955,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_mWgMvSIMG/"
+    },
+    {
+      "name": "류정샤브랑숯불갈비",
+      "address": "인천 부평구 부평문화로 159 1층",
+      "main_menu": [
+        "숯불갈비",
+        "샤브샤브",
+        "샐러드바",
+        "칼국수",
+        "볶음밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.493758462373485,
+      "longitude": 126.7354629647525,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_j3R4myND5/"
+    },
+    {
+      "name": "#단성무이구월점",
+      "address": "인천 남동구 인하로 497-28 2층",
+      "main_menu": [
+        "산더미 수육전골",
+        "된장국 베이스 수육"
+      ],
+      "type": "술집",
+      "latitude": 37.443056684548395,
+      "longitude": 126.70486735802348,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_iASqPSMA6/"
+    },
+    {
+      "name": "#루옥",
+      "address": "청라동 131-17",
+      "main_menu": [
+        {
+          "name": "차돌양지쌀국수",
+          "price": 10000
+        },
+        {
+          "name": "분짜",
+          "price": 14000
+        },
+        {
+          "name": "고기짜조",
+          "price": 10000,
+          "quantity": 5
+        }
+      ],
+      "type": "밥집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_fpbWySLI-/"
+    },
+    {
+      "name": "얌얌얌팩토리",
+      "address": "인천 미추홀구 낙섬중로 72 2층",
+      "main_menu": [
+        "에그타르트",
+        "마카롱",
+        "두바이 초콜릿"
+      ],
+      "type": "카페",
+      "latitude": 37.45311783470803,
+      "longitude": 126.63866599709085,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_etiY-yEiK/"
+    },
+    {
+      "name": "#몯갈비",
+      "address": "석남동 524-11",
+      "main_menu": [
+        "갈비",
+        "양념소갈비",
+        "소고기",
+        "육회"
+      ],
+      "type": "밥집",
+      "latitude": 37.5056839,
+      "longitude": 126.667044,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_dH_Wyyide/"
+    },
+    {
+      "name": "#성말슈퍼마켙",
+      "address": "인천 남동구 성말로32번길 11-12 1층",
+      "main_menu": [
+        "스콘",
+        "휘낭시",
+        "과일케콘"
+      ],
+      "type": "카페",
+      "latitude": 37.44447753723574,
+      "longitude": 126.7041117585324,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_aR-tDytTU/"
+    },
+    {
+      "name": "우마카",
+      "address": "청라동 162-6 마르씨엘빌딩 B1층",
+      "main_menu": [
+        "스페셜 set (99,000원)",
+        "소고기 신라면 (5,000원)",
+        "우설 (23,000원)"
+      ],
+      "type": "와규 맛집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_X7AQaymLl/"
+    },
+    {
+      "name": "전통주바 선상",
+      "address": "인천 부평구 경원대로1403번길 20-4 3, 4층",
+      "main_menu": [
+        "꽃게구이",
+        "게딱지볶음밥",
+        "과메기"
+      ],
+      "type": "술집",
+      "latitude": 37.4921786,
+      "longitude": 126.7256051,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_VZWsgSjoq/"
+    },
+    {
+      "name": "온비 부천역점",
+      "address": "경기도 부천시 원미구 부일로 444-7",
+      "main_menu": [
+        "왕겨초벌된 솥뚜껑삼겹",
+        "원세트(가로막살+목살+삼겹살)",
+        "붉은대게 된장술밥",
+        "공기밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.4859868955625,
+      "longitude": 126.78221768612741,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_QO500yhIe/"
+    },
+    {
+      "name": "위클리베이글 송도현대프리미엄아울렛점",
+      "address": "인천 연수구 송도과학로28번길 8 121호",
+      "main_menu": [
+        "애플망고빙수",
+        "샤인머스켓빙수"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_PO-SUy5P1/"
+    },
+    {
+      "name": "KIKU",
+      "address": "Incheon, Bupyeong-gu, Gyoyang-daero 1403-bun-gil, 3rd Floor",
+      "main_menu": [
+        "Japanese culture cocktails",
+        "Western culture cocktails",
+        "Beer",
+        "Japanese whiskey such as Yamazaki"
+      ],
+      "type": "술집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_NnuKjS2bc/"
+    },
+    {
+      "name": "#문테라스",
+      "address": "인천 중구 월미로 219 1~3층",
+      "main_menu": [
+        "미국식 해물찜",
+        "서프앤터프세트",
+        "스페셜보일링 2인"
+      ],
+      "type": "밥집",
+      "latitude": 37.47536595591124,
+      "longitude": 126.61682986705291,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_MqOM3SlEN/"
+    },
+    {
+      "name": "#라스트춘선구월",
+      "address": "인천 남동구 인하로507번길 63 1층 110,111호",
+      "main_menu": [
+        "묵은지참치말이",
+        "항정삼합",
+        "한우모츠나베"
+      ],
+      "type": "밥집",
+      "latitude": 37.44566185587437,
+      "longitude": 126.70316096312668,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_KncEXS4iA/"
+    },
+    {
+      "name": "포레스트",
+      "address": "인천 부평구 시장로 24 2층",
+      "main_menu": [
+        "국물닭발",
+        "불닭볶음면",
+        "파스타 빠네 치킨",
+        "고추잡채"
+      ],
+      "type": "룸술집",
+      "latitude": 37.493212523701715,
+      "longitude": 126.72543232562768,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C_IeMzOyTGm/"
+    },
+    {
+      "name": "피자스톰",
+      "address": "배달앱 통해 집 근처 피자스톰 검색!",
+      "main_menu": [
+        "88페퍼로니",
+        "허리케인골드 반 반",
+        "치즈오븐스파게티",
+        "핫바베큐 통다리"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-7mLM_yL0_/"
+    },
+    {
+      "name": "#만장부평본점",
+      "address": "인천 부평구 시장로30번길 27 1층",
+      "main_menu": [
+        "꽃게구이",
+        "꽃게탕",
+        "매콤무뼈닭발",
+        "계란말이",
+        "통가래떡볶이",
+        "반건조 오징어"
+      ],
+      "type": "술집",
+      "latitude": 37.49313822551863,
+      "longitude": 126.72688171313239,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-5Bb9jSQ3M/"
+    },
+    {
+      "name": "#낭낭한식주점구월점",
+      "address": "인천 남동구 인주대로522번길 64 1층",
+      "main_menu": [
+        "전통주",
+        "국물류",
+        "한우대창듬뿍순볶음탕",
+        "꼬비국수"
+      ],
+      "type": "술집",
+      "latitude": 37.44884569241249,
+      "longitude": 126.69549363808423,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-2chxiyATA/"
+    },
+    {
+      "name": "#조박사소머리국밥",
+      "address": "청라동 132-2",
+      "main_menu": [
+        "소머리국밥",
+        "솥밥",
+        "설렁탕"
+      ],
+      "type": "밥집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-1exGzSWjG/"
+    },
+    {
+      "name": "#테디스베이글청라",
+      "address": "청라동 104-96",
+      "main_menu": [
+        "핸드메이드 베이글",
+        "크림치즈 베이글"
+      ],
+      "type": "카페",
+      "description": "당일생산, 위생 매우 청결, 다양한 종류의 베이글 판매",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-wS06NSZJp/"
+    },
+    {
+      "name": "#청성골통닭",
+      "address": "원당동 1018-2",
+      "main_menu": [
+        "원조 청성골통닭 한마리"
+      ],
+      "type": "밥집",
+      "latitude": 37.59250195,
+      "longitude": 126.69391308226591,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-sLtNfy0ft/"
+    },
+    {
+      "name": "#당나발포차",
+      "address": "인천 남동구 인하로489번길 22 동남빌딩 2층 201호",
+      "main_menu": [
+        "불고기",
+        "날치알무침",
+        "계란말이",
+        "탕"
+      ],
+      "type": "술집",
+      "latitude": 37.44503414230227,
+      "longitude": 126.701199385,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-pkpA1SkJs/"
+    },
+    {
+      "name": "요거트퍼플",
+      "address": "인천 갈산 U1점",
+      "main_menu": [
+        "요거트 아이스크림",
+        "치즈케익큐브",
+        "벌집꿀"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-ou2azy8yP/"
+    },
+    {
+      "name": "#오징어슈퍼",
+      "address": "인천 부평구 경원대로1403번길 19 1층",
+      "main_menu": [
+        "오징어회",
+        "오징어링",
+        "왕새우소금구이",
+        "머리 버터구이"
+      ],
+      "type": "술집",
+      "latitude": 37.49220624089966,
+      "longitude": 126.72534947410236,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-m80TryZ-S/"
+    },
+    {
+      "name": "#가마꿉치킨당하점",
+      "address": "인천 서구 청마로167번안길 15 당하올제 1층",
+      "main_menu": [
+        "오리지널치킨",
+        "국물떡볶이",
+        "양념 모짜렐라 순살"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-mIxKAS_pP/"
+    },
+    {
+      "name": "#온기족발",
+      "address": "인천 서구 가정로293번길 10",
+      "main_menu": [
+        "간장족발",
+        "양파족발"
+      ],
+      "type": "족발",
+      "latitude": 37.5111198095155,
+      "longitude": 126.67158052356285,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-h4dipytyP/"
+    },
+    {
+      "name": "샵샵 부평구청점",
+      "address": "인천 부평구 주부토로145번길 20",
+      "main_menu": [
+        "1인 샤브샤브",
+        "회전초밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.508163378966024,
+      "longitude": 126.72433626796527,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-eVeJPS-1o/"
+    },
+    {
+      "name": "#왓더버거청라점",
+      "address": "인천 서구 청라에메랄드로 99 지젤엠청라 1층 017, 018호",
+      "main_menu": [
+        "직화통새우버거",
+        "스크램블에그폭탄 지못미버거"
+      ],
+      "type": "밥집",
+      "latitude": 37.528578777997446,
+      "longitude": 126.6564756579144,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-bpCCzy2cb/"
+    },
+    {
+      "name": "엠케이",
+      "address": "인천 연수구 하모니로 158 송도 타임스페이스 B동 122호",
+      "main_menu": [
+        "mk플래터 (29,900원: 감튀, 블랙페퍼치킨, 버터갈릭새우 샐러드)",
+        "타코"
+      ],
+      "type": "술집",
+      "latitude": 37.38845713947027,
+      "longitude": 126.64840637876937,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-ZYdEky_zu/"
+    },
+    {
+      "name": "#투파인드피터청라점",
+      "address": "인천 서구 청라에메랄드로 84 딜라이트타워2 지층 B106~109호",
+      "main_menu": [
+        "피자",
+        "옥수수",
+        "프라이"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-XV2kFSXNT/"
+    },
+    {
+      "name": "#멘야겐키",
+      "address": "인천 남동구 성말로13번길 15 메인프라자 129호",
+      "main_menu": [
+        "라멘",
+        "청탕"
+      ],
+      "type": "밥집",
+      "latitude": 37.446024699999995,
+      "longitude": 126.70217925,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-U_PS5yj71/"
+    },
+    {
+      "name": "나사장네한우짝갈비",
+      "address": "용현동 622-11",
+      "main_menu": [
+        "소고기",
+        "한우"
+      ],
+      "type": "고기집",
+      "latitude": 37.4508937,
+      "longitude": 126.6492456,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-PoCQLSbz7/"
+    },
+    {
+      "name": "준식당",
+      "address": "인천 서구 담지로86번길 5-15 1층",
+      "main_menu": [
+        "소고기 볶음 짜장면",
+        "크림 짬뽕",
+        "레몬 탕수육(소)",
+        "블루베리 크림새우"
+      ],
+      "type": "중식당",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-MZBp2yUZm/"
+    },
+    {
+      "name": "럭키비키인 존잘사장님 횟집",
+      "address": "부평구 경원대로1403번길 38-10",
+      "main_menu": [
+        "대하",
+        "오징어회",
+        "레몬크림새우",
+        "마라전골"
+      ],
+      "type": "술집",
+      "latitude": 37.49220624089966,
+      "longitude": 126.72534947410236,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-JunZ3S4Ws/"
+    },
+    {
+      "name": "#일미리금계찜닭",
+      "address": "인천",
+      "main_menu": [
+        "콰트로치즈찜닭",
+        "로제치즈볼",
+        "계란찜밥"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-H4luVyZpf/"
+    },
+    {
+      "name": "#대구주막",
+      "address": "인천 연수구 송도과학로28번길 50 West동 1층 141호",
+      "main_menu": [
+        "동인동찜갈비",
+        "파막창",
+        "한우뭉티기"
+      ],
+      "type": "술집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-Fhbt0Sgd0/"
+    },
+    {
+      "name": "위클리베이글 송도현대프리미엄아울렛점",
+      "address": "인천 연수구 송도과학로28번길 8 121호",
+      "main_menu": [
+        "애플망고빙수",
+        "생연어&어니언 샌드위치"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-Ejqmfyd1R/"
+    },
+    {
+      "name": "#청년고기장수주안점",
+      "address": "주안동 24-24",
+      "main_menu": [
+        "명품숙성고기",
+        "30여종이 넘는 다양한 샐러드바"
+      ],
+      "type": "밥집",
+      "latitude": 37.4587798,
+      "longitude": 126.679789,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C-B-33gSnjb/"
+    },
+    {
+      "name": "신사교자냉삼",
+      "address": "인천 부평구 시장로 24 1층 108, 109호",
+      "main_menu": [
+        "냉삼",
+        "우삼겹",
+        "꽃냉삼",
+        "미나리",
+        "관자"
+      ],
+      "type": "밥집",
+      "latitude": 37.493212523701715,
+      "longitude": 126.72543232562768,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9_u8IXS49z/"
+    },
+    {
+      "name": "#미스타교자",
+      "address": "인천 부평구 경원대로 1409 1층 103호",
+      "main_menu": [
+        "명물야끼교자",
+        "명물야끼소바",
+        "레몬크림새우",
+        "어향가지",
+        "기린생맥"
+      ],
+      "type": "술집",
+      "latitude": 37.48204653301939,
+      "longitude": 126.7005216708036,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C96bTiRSX_m/"
+    },
+    {
+      "name": "데비존스",
+      "address": "부평구 경원대로1403번길 20-4 지하1층",
+      "main_menu": [
+        "위스키",
+        "칵테일",
+        "와인",
+        "후카"
+      ],
+      "type": "술집",
+      "latitude": 37.4921786,
+      "longitude": 126.7256051,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C935_IYyV3z/"
+    },
+    {
+      "name": "인천계백",
+      "address": "인천 서구 승학로372번길 1 가동 1층 101호, 102호",
+      "main_menu": [
+        "장작구이",
+        "로제파스타 장작구이"
+      ],
+      "type": "밥집",
+      "latitude": 37.55563468899521,
+      "longitude": 126.67508278847176,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C92IUSASBNJ/"
+    },
+    {
+      "name": "#마스타하이볼",
+      "address": "인천 부평구 시장로20번길 16 2층",
+      "main_menu": [
+        "마라타코야끼",
+        "후추테바사끼",
+        "오뎅나베"
+      ],
+      "type": "술집",
+      "latitude": 37.49270056099515,
+      "longitude": 126.72538135683453,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C91YXG5yT_e/"
+    },
+    {
+      "name": "쇼쿠지",
+      "address": "인천 서구 담지로86번길 5-24 1층 쇼쿠지",
+      "main_menu": [
+        "블랙타이거텐동",
+        "왕새우튀김 냉모밀정식"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9uBvXHyxa3/"
+    },
+    {
+      "name": "나진국밥 갈산점",
+      "address": "인천",
+      "main_menu": [
+        "국밥",
+        "수육무침",
+        "갓국수",
+        "술상한상B",
+        "술상한상A",
+        "맛배기수육",
+        "특국밥",
+        "갓수육(대)",
+        "갓수육(소)",
+        "수육(대)",
+        "수육(소)"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9lj95sSayL/"
+    },
+    {
+      "name": "#구월오리",
+      "address": "구월동 1359-19",
+      "main_menu": [
+        "오리 로스",
+        "오리 주물럭"
+      ],
+      "type": "밥집",
+      "latitude": 37.449345,
+      "longitude": 126.7080835,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9jF-vby-Mp/"
+    },
+    {
+      "name": "코코스키구월점",
+      "address": "인천 남동구 성말로 9 208호",
+      "main_menu": [
+        "규카츠"
+      ],
+      "type": "이자카야",
+      "latitude": 37.445321284890284,
+      "longitude": 126.7037553058682,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9gjGU_SI2s/"
+    },
+    {
+      "name": "고계",
+      "address": "만수동 884-7, 만수역 2번출구에서 27m, 1번출구로 나와도됨",
+      "main_menu": [
+        "콘치즈장작구이 통닭",
+        "국물떡볶이",
+        "고계국수"
+      ],
+      "type": "술집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9d-SK-yxdi/"
+    },
+    {
+      "name": "#카페달담",
+      "address": "인천 미추홀구 소성로256번길 10-24 1층 102호",
+      "main_menu": [
+        "두바이초콜릿",
+        "레터링 케이크",
+        "수박주스",
+        "식혜",
+        "아메리카노"
+      ],
+      "type": "카페",
+      "latitude": 37.43815305,
+      "longitude": 126.67533259999999,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9bXSjJSIo0/"
+    },
+    {
+      "name": "유니크 플레이트",
+      "address": "인천 남동구 에코중앙로150번길 20-5 2층",
+      "main_menu": [
+        "애플 브리치즈 오픈 샌드위치",
+        "유니크 티라미수",
+        "아보카도 커피",
+        "명란 감바스"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9YyvZryZOE/"
+    },
+    {
+      "name": "한우정",
+      "address": "인천 남동구 앵고개로 942 1,2,3층",
+      "main_menu": [
+        "기본찬 8종",
+        "제철 신선회",
+        "육회 사시미",
+        "대하구이",
+        "한우구이",
+        "마무리 식사"
+      ],
+      "type": "밥집",
+      "latitude": 37.401089905364664,
+      "longitude": 126.68396788396441,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9XRnn3yje0/"
+    },
+    {
+      "name": "조개뷰을왕리",
+      "address": "을왕동 810-205 3층",
+      "main_menu": [
+        "조개구이 무한리필",
+        "라면 무제한",
+        "아이스크림 무제한",
+        "서브 음식 무제한"
+      ],
+      "type": "밥집",
+      "latitude": 37.45259,
+      "longitude": 126.38318,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9WJj9aSKne/"
+    },
+    {
+      "name": "참피온 삼겹살",
+      "address": "송도동 174-3, 2층 202, 203호",
+      "main_menu": [
+        "냉삼"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9UpO-8SOJO/"
+    },
+    {
+      "name": "수산공원",
+      "address": "경기 김포시 대곶면 대명항1로 52 수산공원",
+      "main_menu": [
+        "초대형 베이커리",
+        "브런치카페",
+        "아쿠아리움"
+      ],
+      "type": "카페",
+      "latitude": 37.642468199999996,
+      "longitude": 126.54597225425739,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9TocujyRjt/"
+    },
+    {
+      "name": "천년닭강정",
+      "address": "집 근처 검색 (배달앱)",
+      "main_menu": [
+        "간장 맛 닭강정",
+        "달콤 새우강정"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9SB2fyytau/"
+    },
+    {
+      "name": "수란 본점",
+      "address": "인천서구 당하동 1079-5",
+      "main_menu": [
+        "갈릭레몬 깐풍기",
+        "볶음밥",
+        "게살볶음밥"
+      ],
+      "type": "중식당",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9KWgkiysC_/"
+    },
+    {
+      "name": "다원옥 검단신도시점",
+      "address": "원당동 1041-10",
+      "main_menu": [
+        "국밥",
+        "수육"
+      ],
+      "type": "밥집",
+      "latitude": 37.59250195,
+      "longitude": 126.69391308226591,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9JRy_Dy-nu/"
+    },
+    {
+      "name": "모다치",
+      "address": "청라동 157-18 반안프라자3차 지하1층 03호 04호",
+      "main_menu": [
+        "삼겹살 들기름 두부김치",
+        "배추전"
+      ],
+      "type": "요리주점",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9EMGnDSNwE/"
+    },
+    {
+      "name": "마유유 마라탕",
+      "address": "인천롯데백화점 지하1층 푸드에비뉴",
+      "main_menu": [
+        "마라탕",
+        "샹궈"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C9BgGghyp-p/"
+    },
+    {
+      "name": "송도트리플 C동",
+      "address": "송도동 176-1",
+      "main_menu": [
+        "우삼겹",
+        "꼬치 40개",
+        "모둠야채",
+        "모둠버섯",
+        "칼국수"
+      ],
+      "type": "밥집",
+      "latitude": 36.03623,
+      "longitude": 129.37521,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C8__4TOSqbq/"
+    },
+    {
+      "name": "수영냉삼 인천직영점",
+      "address": "부평동 155-32",
+      "main_menu": [
+        "한우냉삼",
+        "김치찌개",
+        "비빔국수"
+      ],
+      "type": "밥집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C8-7rhOSlaX/"
+    },
+    {
+      "name": "베이커리호프",
+      "address": "중동1167-1",
+      "main_menu": [
+        "마늘바게트",
+        "바질토마토베이글",
+        "어니언베이글",
+        "모카크림롤",
+        "오이바게트"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C83hxOAykwh/"
+    },
+    {
+      "name": "곱산",
+      "address": "서창동 704-2, 리치타워 건물 1층",
+      "main_menu": [
+        "간",
+        "천엽",
+        "부추",
+        "곱산 시그니처 모듬 한판메뉴",
+        "수제 청정더덕 한우곱창"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C80vEH1S3Tw/"
+    },
+    {
+      "name": "낭낭한식주점",
+      "address": "간석동 165-12",
+      "main_menu": [
+        "쌀떡볶이",
+        "명란치즈 감자전",
+        "고구마무스",
+        "족간장냉채소면"
+      ],
+      "type": "밥집",
+      "latitude": 37.4627532,
+      "longitude": 126.7036366,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/C8t-lK3S4Qb/"
+    },
+    {
+      "name": "밀우",
+      "address": "인천 연수구 능허대로79번길 30 일반상가동 1층",
+      "main_menu": [
+        "오리지널 소금빵",
+        "초코 소금빵",
+        "우유크림 소금빵"
+      ],
+      "type": "카페",
+      "latitude": 37.425432875473426,
+      "longitude": 126.64257389259905,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEhgpLfyp0w/"
+    },
+    {
+      "name": "몽촌닭갈비 송도점",
+      "address": "인천 연수구 인천타워대로132번길 9 1층",
+      "main_menu": [
+        "몽촌 한방 닭갈비",
+        "몽촌 매콤 닭갈비",
+        "칼국수"
+      ],
+      "type": "밥집",
+      "latitude": 37.385476380224304,
+      "longitude": 126.64258222521063,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEe7_PJSw1T/"
+    },
+    {
+      "name": "갈풍집 송도점",
+      "address": "송도동 21-26 1층 (지하주차장 지원)",
+      "main_menu": [
+        "마늘갈비살",
+        "양념안창살구이",
+        "안창파구이"
+      ],
+      "type": "밥집",
+      "latitude": 37.3851499,
+      "longitude": 126.6457433,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEcTgyAykQu/"
+    },
+    {
+      "name": "뉴트로2010 부평점",
+      "address": "인천 부평구 경원대로1403번길 42 3층",
+      "main_menu": [
+        "양주",
+        "요구르트 술",
+        "안주"
+      ],
+      "type": "술집",
+      "latitude": 37.492794,
+      "longitude": 126.72629549999999,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEZJa7BSGut/"
+    },
+    {
+      "name": "연안부두 목포신안18호횟집",
+      "address": "인천광역시 중구 연안부두로 119",
+      "main_menu": [
+        "활어회+랍스터+60첩 코스",
+        "활어회+60첩 코스",
+        "농어+우럭(광어) 코스"
+      ],
+      "type": "횟집",
+      "latitude": 37.453273324782266,
+      "longitude": 126.59845616813467,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEUlAQBy2iH/"
+    },
+    {
+      "name": "섬고짚",
+      "address": "인천광역시 연수구 컨벤시아대로 116 1층",
+      "main_menu": [
+        "제주 숙성고기",
+        "미나리",
+        "제주 몸국"
+      ],
+      "type": "밥집",
+      "latitude": 37.392685715152055,
+      "longitude": 126.64697678548941,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DESAf3WyYP4/"
+    },
+    {
+      "name": "타키",
+      "address": "원당동 1030-12",
+      "main_menu": [
+        "와규블랙타이거",
+        "오사카식 철판볶음",
+        "하이볼"
+      ],
+      "type": "술집",
+      "latitude": 37.59250195,
+      "longitude": 126.69391308226591,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEHI0ijSjDd/"
+    },
+    {
+      "name": "쫀득쿠키",
+      "address": "롯데백화점 인천점 지하1층 잠바주스 바로 앞",
+      "main_menu": [
+        "딸기첵스",
+        "더블초코",
+        "아몬드베리",
+        "후르츠"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEE1azTyXxb/"
+    },
+    {
+      "name": "고쉐프의 신선한 초밥",
+      "address": "인천광역시 서구 청라동 190-1",
+      "main_menu": [
+        "오마카세 판초밥",
+        "모듬초밥",
+        "사시미",
+        "장어덮밥",
+        "아나고온모밥"
+      ],
+      "type": "밥집",
+      "latitude": 37.5330681,
+      "longitude": 126.6299034,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DEACTLISx1K/"
+    },
+    {
+      "name": "정과마음을담아",
+      "address": "부평동 154-9",
+      "main_menu": [
+        "숙성사시미",
+        "불낙전골",
+        "라구소스를 곁들인 파스타와 웨지감자, 소세지"
+      ],
+      "type": "술집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DD9DQDpyrfV/"
+    },
+    {
+      "name": "쏠마레일피노",
+      "address": "인천 중구 영종대로566번길 15",
+      "main_menu": [
+        "파스타",
+        "스테이크",
+        "피자"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DD6B_A9yHWE/"
+    },
+    {
+      "name": "샤브올데이 인천도화점",
+      "address": "인천 미추홀구 숙골로87번길 5 204동 2층",
+      "main_menu": [
+        "소고기 3종",
+        "양식, 중식, BBQ",
+        "60여가지 음식들",
+        "맥주"
+      ],
+      "type": "밥집",
+      "latitude": 37.469732330512045,
+      "longitude": 126.66080819673236,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DD4T5cpy5OT/"
+    },
+    {
+      "name": "조개대표 을왕리직영점",
+      "address": "인천 중구 을왕로 6 3층",
+      "main_menu": [
+        "조개구이 무한리필",
+        "삼겹볶음",
+        "라볶이",
+        "콘치즈",
+        "꽃게 해물라면"
+      ],
+      "type": "밥집",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DD1F6nlyjTj/"
+    },
+    {
+      "name": "왕초바베큐 부평점",
+      "address": "부평동 153-4",
+      "main_menu": [
+        "국물닭발",
+        "치킨 feat. 생맥"
+      ],
+      "type": "밥집",
+      "latitude": 37.4906976,
+      "longitude": 126.723817,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDyTbo9yOFe/"
+    },
+    {
+      "name": "분좋술집",
+      "address": "인천 부평구 시장로 24 4층",
+      "main_menu": [
+        "굴보쌈",
+        "묵은지닭볶음탕",
+        "김치찌개"
+      ],
+      "type": "술집",
+      "latitude": 37.49160698811929,
+      "longitude": 126.72393675898518,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDwlpfjyMlc/"
+    },
+    {
+      "name": "유신불족발",
+      "address": "인천 남동구 인하로 497-28 101,102호",
+      "main_menu": [
+        "후라이드족발",
+        "불족발",
+        "계란찜",
+        "주먹밥",
+        "쟁반국수"
+      ],
+      "type": "족발집",
+      "latitude": 37.44271731223617,
+      "longitude": 126.71148515025058,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDvrtrxSIHW/"
+    },
+    {
+      "name": "고규",
+      "address": "인천 연수구 컨벤시아대로 90 502동 1층",
+      "main_menu": [
+        "와규",
+        "쉬림프 롤",
+        "뚝배기 순두부 탱글라면",
+        "트러플 짜파게티"
+      ],
+      "type": "밥집",
+      "latitude": 37.38918544370923,
+      "longitude": 126.64319147267537,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDs_ZmZyEu0/"
+    },
+    {
+      "name": "츄플러스",
+      "address": "인천 롯데백화점 지하1층 터미널역 초입 바로 앞",
+      "main_menu": [
+        "오리지널 츄러스",
+        "초코 츄러스",
+        "옥수수 츄러스",
+        "딸기 츄러스",
+        "상하목장 아이스크림 츄러스"
+      ],
+      "type": "카페",
+      "latitude": 0,
+      "longitude": 0,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDqnTAYSdtd/"
+    },
+    {
+      "name": "삼우한우낙지탕탕이",
+      "address": "선학동 403-28",
+      "main_menu": [
+        "한우낙지탕탕이",
+        "바지락스지탕"
+      ],
+      "type": "밥집",
+      "latitude": 37.4278854,
+      "longitude": 126.6963107,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDjEZ18SoHt/"
+    },
+    {
+      "name": "수영냉삼 인천직영점",
+      "address": "인천 부평구 경원대로1403번길 20-2",
+      "main_menu": [
+        "냉삼"
+      ],
+      "type": "밥집",
+      "latitude": 37.492794,
+      "longitude": 126.72629549999999,
+      "reels_link": "https://www.instagram.com/hotdor_s/reel/DDgaBcwSdWq/"
+    }
+  ]
+}
