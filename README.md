@@ -1,8 +1,10 @@
 인스타그램 인플루언서 게시물 기반 맛집 지도
-소개
+
+소개:
 이 프로젝트는 인스타그램 인플루언서의 게시물을 기반으로 맛집 정보를 수집하고, 이를 지도에 표시하는 웹 애플리케이션입니다. 사용자는 밥집, 카페, 술집 카테고리별로 원하는 맛집 정보를 지도에서 확인하고, 관련된 소셜 미디어 링크와 지도 서비스를 통해 추가 정보를 얻을 수 있습니다.
 
 주요 기능
+
 인스타그램 크롤링: 인플루언서 계정의 게시물을 자동으로 크롤링하여 맛집 정보를 수집합니다.
 
 AI 분석: Perplexity AI API를 활용해 게시물 텍스트에서 식당 정보를 추출합니다.
@@ -13,41 +15,65 @@ AI 분석: Perplexity AI API를 활용해 게시물 텍스트에서 식당 정�
 
 인포윈도우 제공: 각 맛집에 대한 상세 정보(이름, 주소, 메인 메뉴)와 관련된 링크(인스타 릴스, 구글 지도, 네이버 지도, 카카오맵)를 제공합니다.
 
+
 설치 및 실행 방법
+
 1. 프로젝트 클론
-2. 
+```
 git clone https://github.com/SongSeungYun/insta_matzip_map
 cd insta_matzip_map
-3. Python 의존성 설치
-requirements.txt 파일을 사용해 필요한 Python 패키지를 설치합니다:
+```
 
-bash
+2. Python 의존성 설치
+requirements.txt 파일을 사용해 필요한 Python 패키지를 설치
+````
+cd get_data
 pip install -r requirements.txt
+```
 3. Node.js 의존성 설치
-Node.js 환경에서 필요한 패키지를 설치합니다:
-
-bash
-cd back
+Node.js 환경에서 필요한 패키지를 설치
+```
+cd ../back
 npm install
+```
 4. 환경 변수 설정
 data/secret.json 파일을 생성하고 아래 내용을 입력하세요:
 
-json
+```json
 {
-    "MAP_API_KEY": "카카오 맵 API 키를 입력하세요",
-    "Insta_ID": "인스타그램 아이디를 입력하세요",
-    "Insta_PW": "인스타그램 비밀번호를 입력하세요",
-    "AI_API_KEY": "Perplexity AI API 키를 입력하세요"
+    "MAP_API_KEY": "카카오 맵 API 키",
+    "Insta_ID": "인스타그램 아이디",
+    "Insta_PW": "인스타그램 비밀번호",
+    "AI_API_KEY": "Perplexity AI API 키"
 }
-5. 서버 실행
+```
+5.원하는 인스타그램 인플루언서 추가
+
+get_data/crawling.py로 이동해서 원하는 인스타그램 계정의 아이디를 적어주세요.
+ex) account_id=["example1", "example2"]
+
+추가로 기존 데이터를 없애고 싶으시면 data 폴더의 json파일들을 다음과 같이 수정해주세요.
+```json
+//post_count.json
+{
+    "dummy": 0,
+    "hotdor_s": 166
+}
+```
+
+
+6. 서버 실행
 Python 크롤링 및 데이터 분석 실행:
-bash
+
+cd ../get_data
 python main.py
-Node.js 서버 실행:
-bash
+
+크롤링이 완료된 후 Node.js 서버 실행:
+
 cd back
 node app.js
-6. 웹 애플리케이션 접속
+
+7. 웹 애플리케이션 접속
 브라우저에서 http://localhost:3000으로 접속하여 애플리케이션을 확인합니다.
 
 사용법
