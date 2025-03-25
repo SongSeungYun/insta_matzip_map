@@ -26,7 +26,7 @@ cd insta_matzip_map
 
 2. Python 의존성 설치
 requirements.txt 파일을 사용해 필요한 Python 패키지를 설치
-````
+```
 cd get_data
 pip install -r requirements.txt
 ```
